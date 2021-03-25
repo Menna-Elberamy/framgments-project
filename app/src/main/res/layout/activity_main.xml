@@ -24,6 +24,7 @@
         app:layout_constraintRight_toRightOf="@+id/hello"
         app:layout_constraintTop_toBottomOf="@+id/hello"
         android:text="rabena ystor manon"
+        android:textColor="#EC1010"
         android:textSize="30sp"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
